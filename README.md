@@ -1,4 +1,4 @@
-<img src="your-image-url" width="100%"/>
+<img src="do-something-great.gif" width="100%"/>
 
 # 👋 Hola! Nice to see you.
 
